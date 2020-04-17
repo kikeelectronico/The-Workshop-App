@@ -1,0 +1,90 @@
+.container {
+  margin-top: 20px;
+}
+
+.container div {
+  margin-bottom: 20px;
+}
+
+.boton {
+  margin-right: 20px;
+}
+
+.step-number {
+  background-color: #007bff;
+  color: white;
+  width: 50px;
+  height: 60px;
+  font-size: 2em;
+  font-weight: bold;
+  border-radius: 20px;
+  padding-left: 15px;
+  padding-top: 10px;
+}
+
+.step-img-left{
+  width: 80%;
+  min-height: 200px;
+  overflow: hidden;
+  margin-left:10%;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+
+.step-img-left div{
+  float: left;
+  width: 50%;
+  min-height: 200px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.step-img-left div img {
+  width: 100%;
+}
+
+.step-title{
+  width: 80%;
+  min-height: 100px;
+  margin-left:10%;
+  padding: 20px;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+
+.step-image{
+  width: 80%;
+  min-height: 100px;
+  margin-left:10%;
+  padding: 20px;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+
+.step-image img{
+  width: 100%;
+}
+
+.step-youtube{
+  width: 80%;
+  min-height: 200px;
+  overflow: hidden;
+  margin-left:10%;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+  padding: 20px;
+  text-align: center;
+}

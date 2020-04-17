@@ -1,0 +1,13 @@
+Step,Type,Title,Description,Button text,Button link,Button text B,Button link B,src,<->
+0,Header,The workshop title,"The workshop description. The Header block must exits and must be the first one.
+
+Can contain buttons but can't containt a src",A button,https://www.github.com,Another button,https://www.github.com,,<->
+1,Title,A title section,This block can't contain a src,A button,https://www.google.com,,,,<->
+2,Image,,,,,,,https://www.rinconingenieril.es/wp-content/uploads/2018/07/Miniatura-PT100.jpg,<->
+3,Image-Text,A colum section,"This section must contain a link to an image in the src column and at least one of the following items:
+
+<ul><li>Tittle</li><li>Description</li><li>Button</li><li>Button B</li></ul>",A button,https://www.google.com,,,https://www.rinconingenieril.es/wp-content/uploads/2018/07/Miniatura-PT100.jpg,<->
+4,Text-Image,A colum section,"This section must contain a link to an image in the src column and at least one of the following items:
+
+<ul><li>Tittle</li><li>Description</li><li>Button</li><li>Button B</li></ul>",,,,,https://www.rinconingenieril.es/wp-content/uploads/2018/07/Miniatura-PT100.jpg,<->
+5,YouTube,,,,,,,jNQXAC9IVRw,<->
